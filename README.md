@@ -1,7 +1,9 @@
 # Study
 
 Angular 
-[] 屬性繫結 ()事件繫結 {{}}內嵌繫結
+[] 屬性繫結 property binding
+()事件繫結  event binding
+{{}}內嵌繫結 interpolation
 
 https://ithelp.ithome.com.tw/articles/10292161 
 
