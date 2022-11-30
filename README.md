@@ -14,3 +14,5 @@ https://hackmd.io/@Heidi-Liu/angular-lifecycle
 ![image](https://user-images.githubusercontent.com/17610423/202995977-3ca8213a-7e9e-4811-aec0-3e53a1d2cf70.png)
 
 ![image](https://user-images.githubusercontent.com/17610423/202996195-047c3717-228b-4c01-af4c-02a132e97008.png)
+
+![image](https://user-images.githubusercontent.com/17610423/204699258-a6a97548-898a-444b-a87a-2a0e90560f2f.png)
