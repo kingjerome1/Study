@@ -5,6 +5,9 @@ Angular
 ()事件繫結  event binding
 {{}}內嵌繫結 interpolation
 
+JavaScript
+Promise 物件代表一個即將完成、或失敗的非同步操作，以及它所產生的值。
+
 https://ithelp.ithome.com.tw/articles/10292161 
 
 https://hackmd.io/@Heidi-Liu/angular-lifecycle
