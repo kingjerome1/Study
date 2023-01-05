@@ -12,6 +12,10 @@ https://ithelp.ithome.com.tw/articles/10292161
 
 https://hackmd.io/@Heidi-Liu/angular-lifecycle
 
+https://ithelp.ithome.com.tw/articles/10103969
+
+https://ithelp.ithome.com.tw/articles/10204404
+
 ![image](https://user-images.githubusercontent.com/17610423/203209008-83264e16-152f-48dc-b9ff-ccb9295de535.png)
 
 ![image](https://user-images.githubusercontent.com/17610423/202995977-3ca8213a-7e9e-4811-aec0-3e53a1d2cf70.png)
